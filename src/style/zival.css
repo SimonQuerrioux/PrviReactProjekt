@@ -1,0 +1,22 @@
+img {
+  display: block;
+  max-width: 500px;
+  width: auto;
+  height: auto;
+}
+body {
+  background: #222f3e !important;
+}
+p {
+  color: aliceblue;
+}
+h2 {
+  color: rgb(185, 185, 186);
+}
+.Zival {
+  color: rgb(185, 185, 186);
+}
+.Zival img {
+  border: #646464;
+  border-width: 30px;
+}
